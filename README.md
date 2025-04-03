@@ -1,0 +1,2 @@
+# tradingbot
+test bot

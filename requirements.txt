@@ -1,0 +1,5 @@
+ccxt
+pandas
+flask
+python-dotenv
+twilio
